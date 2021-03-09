@@ -12,15 +12,15 @@ Notebook contains:
    2. Using Deep Learning
 3. Visualization
 
-## 1. Data Exploration
+### 1. Data Exploration
 Checking for null values, unique number of labels.
 
-## 2. Problem Solutions
+### 2. Problem Solutions
 Comparing the usage of traditional machine learning vs deep learning.
 
 ![Traditional vs Deep Learning](https://user-images.githubusercontent.com/25401067/110433329-451b0280-80eb-11eb-9b91-a9935d228f1c.png)
 
-[Link](https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063)
+[Image Link](https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063)
 
 Traditional Machine Learning:
 - Feature extraction will be done using [InceptionV3](https://keras.io/api/applications/inceptionv3/).
@@ -29,7 +29,7 @@ Traditional Machine Learning:
 Deep Learning:
 - [EfficientNet Neural Network](https://keras.io/api/applications/efficientnet/).
 
-## 3. Visualization
+### 3. Visualization
 Requires the use of [magick](http://www.besavvy.com/documentation/4-5/Editor/031350_installimgk.htm)
 
 Loading metadata and feature vectors into tensorboard projector will produce the result as below for visualization purposes.
