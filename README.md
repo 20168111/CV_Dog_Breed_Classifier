@@ -18,7 +18,7 @@ Checking for null values, unique number of labels.
 ## 2. Problem Solutions
 Comparing the usage of traditional machine learning vs deep learning.
 
-![Traditional vs Deep Learning](![image](https://user-images.githubusercontent.com/25401067/110433329-451b0280-80eb-11eb-9b91-a9935d228f1c.png)
+![Traditional vs Deep Learning](https://user-images.githubusercontent.com/25401067/110433329-451b0280-80eb-11eb-9b91-a9935d228f1c.png)
 
 [Link](https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063)
 
