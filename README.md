@@ -26,7 +26,7 @@ Traditional Machine Learning:
 - Feature extraction will be done using [InceptionV3](https://keras.io/api/applications/inceptionv3/).
 - Classification will be done using Random Forest and Neural Network.
 
-Deep Learning:
+Deep Learning/Transfer Learning:
 - [EfficientNet Neural Network](https://keras.io/api/applications/efficientnet/).
 
 ### 3. Visualization
@@ -38,17 +38,19 @@ Loading metadata and feature vectors into tensorboard projector will produce the
 
 
 ## Credits
-[1](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/) Convolutional Layers
+[1 Convolutional Layers](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)
 
-[2](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) CNN Architecture
+[2 CNN Architecture](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) 
 
-[3](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/#:~:text=The%20rectified%20linear%20activation%20function,otherwise%2C%20it%20will%20output%20zero.&text=The%20rectified%20linear%20activation%20function%20overcomes%20the%20vanishing%20gradient%20problem,learn%20faster%20and%20perform%20better) ReLU Function
+[3 ReLU](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/#:~:text=The%20rectified%20linear%20activation%20function,otherwise%2C%20it%20will%20output%20zero.&text=The%20rectified%20linear%20activation%20function%20overcomes%20the%20vanishing%20gradient%20problem,learn%20faster%20and%20perform%20better) 
 
-[4](https://lisaong.github.io/mldds-courseware/01_GettingStarted/numpy-tensor-slicing.slides.html) Image Tensors
+[4 Image Tensors](https://lisaong.github.io/mldds-courseware/01_GettingStarted/numpy-tensor-slicing.slides.html)
 
-[5](https://medium.com/@kumon/visualizing-image-feature-vectors-through-tensorboard-b850ce1be7f1) Tensorboard Projector
+[5 Tensorboard Projector](https://medium.com/@kumon/visualizing-image-feature-vectors-through-tensorboard-b850ce1be7f1) 
 
-[6](https://cloud.google.com/tpu/docs/inception-v3-advanced) InceptionV3 
+[6 InceptionV3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
+
+[7 EfficientNet Neural Network](https://keras.io/api/applications/efficientnet/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
